@@ -1,0 +1,1676 @@
+21:29:22 [INFO] Using standard Java JCE cipher.
+21:29:22 [INFO] Using standard Java compressor.
+21:29:22 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:29:22 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:29:22 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:22 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:22 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:22 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:22 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:22 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [WARNING] Forced host server pvp is not defined
+21:29:23 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:29:23 [INFO] Listening on /0.0.0.0:25577
+21:30:51 [INFO] §cCommand not found
+21:30:54 [INFO] §cCommand not found
+21:30:55 [INFO] Closing listener [id: 0x672da2c4, L:/[0:0:0:0:0:0:0:0]:25577]
+21:30:55 [INFO] Closing pending connections
+21:30:55 [INFO] Disconnecting 0 connections
+21:30:56 [INFO] Saving reconnect locations
+21:30:56 [INFO] Disabling plugins
+21:30:56 [INFO] Closing IO threads
+21:35:00 [INFO] Using standard Java JCE cipher.
+21:35:00 [INFO] Using standard Java compressor.
+21:35:00 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:35:00 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:35:00 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [WARNING] Forced host server pvp is not defined
+21:35:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:35:00 [INFO] Listening on /0.0.0.0:25577
+21:36:41 [INFO] [/127.0.0.1:56459] <-> InitialHandler has connected
+21:36:42 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:36:43 [INFO] [N0bleDeath] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+21:36:43 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:36:43 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has disconnected
+21:39:14 [INFO] Closing listener [id: 0x5bdf4e43, L:/[0:0:0:0:0:0:0:0]:25577]
+21:39:14 [INFO] Closing pending connections
+21:39:14 [INFO] Disconnecting 0 connections
+21:39:14 [INFO] Saving reconnect locations
+21:39:14 [INFO] Disabling plugins
+21:39:14 [INFO] Closing IO threads
+21:41:55 [INFO] Using standard Java JCE cipher.
+21:41:55 [INFO] Using standard Java compressor.
+21:41:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:41:55 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:41:55 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:41:55 [SEVERE] Exception in thread "main" 
+21:41:55 [SEVERE] java.lang.IllegalArgumentException: Server lobby (priority 0) is not defined
+
+21:41:55 [SEVERE] 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:407)
+
+21:41:55 [SEVERE] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:135)
+
+21:41:55 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:272)
+
+21:41:55 [SEVERE] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+
+21:41:55 [SEVERE] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+
+21:42:57 [INFO] Using standard Java JCE cipher.
+21:42:57 [INFO] Using standard Java compressor.
+21:42:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:42:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:42:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:42:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:42:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:42:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:42:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:42:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [WARNING] Forced host server pvp is not defined
+21:42:58 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:42:58 [INFO] Listening on /0.0.0.0:25565
+21:47:11 [INFO] [/127.0.0.1:50091] <-> InitialHandler has pinged
+21:47:17 [INFO] [/127.0.0.1:50095] <-> InitialHandler has connected
+21:47:18 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:47:18 [INFO] [N0bleDeath] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+21:47:18 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:47:18 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has disconnected
+21:48:29 [INFO] §cCommand not found
+21:48:33 [INFO] Closing listener [id: 0xb5fa863a, L:/[0:0:0:0:0:0:0:0]:25565]
+21:48:33 [INFO] Closing pending connections
+21:48:33 [INFO] Disconnecting 0 connections
+21:48:33 [INFO] Saving reconnect locations
+21:48:33 [INFO] Disabling plugins
+21:48:33 [INFO] Closing IO threads
+21:48:35 [INFO] Thank you and goodbye
+21:49:06 [INFO] Using standard Java JCE cipher.
+21:49:06 [INFO] Using standard Java compressor.
+21:49:06 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:49:06 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:49:06 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [WARNING] Forced host server pvp is not defined
+21:49:06 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:49:06 [INFO] Listening on /0.0.0.0:25565
+21:49:41 [INFO] [/127.0.0.1:49592] <-> InitialHandler has pinged
+21:50:17 [INFO] [/127.0.0.1:49598] <-> InitialHandler has pinged
+21:50:27 [INFO] [/127.0.0.1:49601] <-> InitialHandler has connected
+21:50:29 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:50:29 [INFO] Netty is not using direct IO buffers.
+
+22:35:31 [WARNING] [N0bleDeath] <-> DownstreamBridge <-> [lobby] - SocketException: Connection reset
+22:35:31 [INFO] [N0bleDeath] disconnected with: §fSocketException : Connection reset @ sun.nio.ch.SocketChannelImpl:394
+22:35:31 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:35:31 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:35:41 [INFO] [/127.0.0.1:49800] <-> InitialHandler has pinged
+22:35:47 [INFO] [N0bleDeath,/127.0.0.1:49803] <-> InitialHandler has connected
+22:35:48 [INFO] [N0bleDeath] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+22:35:48 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:36:00 [INFO] Closing listener [id: 0x100688ff, L:/[0:0:0:0:0:0:0:0]:25565]
+22:36:00 [INFO] Closing pending connections
+22:36:00 [INFO] Disconnecting 0 connections
+22:36:00 [INFO] Saving reconnect locations
+22:36:00 [INFO] Disabling plugins
+22:36:00 [INFO] Closing IO threads
+21:55:32 [INFO] Using standard Java JCE cipher.
+21:55:32 [INFO] Using standard Java compressor.
+21:55:32 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:55:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:55:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:55:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:55:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:55:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:55:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:55:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [WARNING] Forced host server pvp is not defined
+21:55:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:55:33 [INFO] Listening on /0.0.0.0:25565
+21:58:38 [INFO] [/127.0.0.1:62885] <-> InitialHandler has pinged
+21:58:47 [INFO] [/127.0.0.1:62893] <-> InitialHandler has connected
+21:58:47 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:58:48 [INFO] [/127.0.0.1:62897] <-> InitialHandler has pinged
+21:58:55 [INFO] Netty is not using direct IO buffers.
+
+21:58:56 [INFO] [/127.0.0.1:62902] <-> InitialHandler has pinged
+22:05:01 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+22:05:01 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:05:37 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:05:37 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+22:09:55 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+22:09:55 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:10:13 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:10:13 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+22:10:42 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+22:10:42 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:11:46 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:11:46 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:11:46 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+22:11:50 [INFO] [N0bleDeath,/127.0.0.1:64156] <-> InitialHandler has connected
+22:11:52 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:16:54 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+22:17:03 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:17:51 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:17:51 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+22:17:53 [INFO] [/127.0.0.1:50961] <-> InitialHandler has pinged
+22:19:13 [INFO] §cCommand not found
+22:19:16 [INFO] §cCommand not found
+22:19:24 [INFO] Closing listener [id: 0xf15b172b, L:/[0:0:0:0:0:0:0:0]:25565]
+22:19:24 [INFO] Closing pending connections
+22:19:24 [INFO] Disconnecting 0 connections
+22:19:25 [INFO] Saving reconnect locations
+22:19:25 [INFO] Disabling plugins
+22:19:25 [INFO] Closing IO threads
+22:19:26 [INFO] Thank you and goodbye
+17:45:47 [INFO] Using standard Java JCE cipher.
+17:45:47 [INFO] Using standard Java compressor.
+17:45:47 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+17:45:47 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [WARNING] Forced host server pvp is not defined
+17:45:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+17:45:47 [INFO] Listening on /0.0.0.0:25565
+17:48:33 [INFO] [/127.0.0.1:60228] <-> InitialHandler has pinged
+17:48:37 [INFO] [/127.0.0.1:60231] <-> InitialHandler has connected
+17:48:38 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+17:48:40 [INFO] Netty is not using direct IO buffers.
+
+17:55:44 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+17:55:45 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:00:57 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:00:57 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+18:01:09 [INFO] [/127.0.0.1:55664] <-> InitialHandler has connected
+18:01:09 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+18:03:13 [INFO] [N0bleDeath] disconnected with: §fServer closed
+18:03:13 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:03:13 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+18:03:22 [INFO] §cCommand not found
+18:03:24 [INFO] Closing listener [id: 0x8aa62a4f, L:/[0:0:0:0:0:0:0:0]:25565]
+18:03:24 [INFO] Closing pending connections
+18:03:24 [INFO] Disconnecting 0 connections
+18:03:25 [INFO] Saving reconnect locations
+18:03:25 [INFO] Disabling plugins
+18:03:25 [INFO] Closing IO threads
+18:03:48 [INFO] Using standard Java JCE cipher.
+18:03:48 [INFO] Using standard Java compressor.
+18:03:48 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+18:03:48 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:03:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [WARNING] Forced host server pvp is not defined
+18:03:48 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:03:48 [INFO] Listening on /0.0.0.0:25565
+18:05:42 [INFO] [/127.0.0.1:55004] <-> InitialHandler has pinged
+18:05:47 [INFO] [N0bleDeath,/127.0.0.1:55006] <-> InitialHandler has connected
+18:05:49 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+18:05:51 [INFO] Netty is not using direct IO buffers.
+
+18:06:23 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+18:06:24 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:06:29 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:06:29 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+18:06:31 [INFO] [/127.0.0.1:55026] <-> InitialHandler has pinged
+18:06:38 [INFO] [/127.0.0.1:55031] <-> InitialHandler has connected
+18:06:38 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+18:12:05 [INFO] [N0bleDeath] disconnected with: §fServer closed
+18:12:05 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:12:05 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:12:27 [INFO] §cCommand not found
+18:12:28 [INFO] §cCommand not found
+18:12:32 [INFO] Closing listener [id: 0x34191ab1, L:/[0:0:0:0:0:0:0:0]:25565]
+18:12:32 [INFO] Closing pending connections
+18:12:32 [INFO] Disconnecting 0 connections
+18:12:32 [INFO] Disabling plugins
+18:12:32 [INFO] Closing IO threads
+18:12:52 [INFO] Using standard Java JCE cipher.
+18:12:52 [INFO] Using standard Java compressor.
+18:12:52 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+18:12:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+18:12:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [WARNING] Error loading plugin PlaceholderAPI
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:271)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 13 more
+18:12:53 [WARNING] Forced host server pvp is not defined
+18:12:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+18:12:53 [INFO] Listening on /0.0.0.0:25565
+18:13:05 [INFO] [/127.0.0.1:63395] <-> InitialHandler has connected
+18:14:25 [INFO] [/127.0.0.1:63411] <-> InitialHandler has connected
+18:14:26 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+18:14:27 [INFO] Netty is not using direct IO buffers.
+
+18:16:51 [INFO] [N0bleDeath] disconnected with: §fServer closed
+18:16:51 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:16:51 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:18:20 [INFO] [/127.0.0.1:49322] <-> InitialHandler has connected
+18:18:20 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+18:34:34 [INFO] [N0bleDeath] disconnected with: §fServer closed
+18:34:34 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:34:34 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:34:56 [INFO] [N0bleDeath,/127.0.0.1:51373] <-> InitialHandler has connected
+18:34:57 [INFO] [N0bleDeath] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+18:34:57 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:36:18 [INFO] [N0bleDeath,/127.0.0.1:51449] <-> InitialHandler has connected
+18:36:21 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+18:56:05 [INFO] [N0bleDeath] disconnected with: §fServer closed
+18:56:05 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+18:56:05 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+18:57:21 [INFO] [/127.0.0.1:63344] <-> InitialHandler has connected
+18:57:22 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+19:05:29 [INFO] [/127.0.0.1:63056] <-> InitialHandler has pinged
+19:05:31 [INFO] [/127.0.0.1:63059] <-> InitialHandler has pinged
+19:05:33 [INFO] [/127.0.0.1:63061] <-> InitialHandler has pinged
+19:05:34 [INFO] [/127.0.0.1:63063] <-> InitialHandler has pinged
+19:05:36 [INFO] [/127.0.0.1:63065] <-> InitialHandler has pinged
+19:05:38 [INFO] [/127.0.0.1:63067] <-> InitialHandler has pinged
+19:05:40 [INFO] [/127.0.0.1:63069] <-> InitialHandler has pinged
+19:05:41 [INFO] [/127.0.0.1:63071] <-> InitialHandler has pinged
+19:05:43 [INFO] [/127.0.0.1:63073] <-> InitialHandler has pinged
+19:05:44 [INFO] [/127.0.0.1:63075] <-> InitialHandler has pinged
+19:05:46 [INFO] [/127.0.0.1:63077] <-> InitialHandler has pinged
+19:05:47 [INFO] [/127.0.0.1:63080] <-> InitialHandler has pinged
+19:05:50 [INFO] [/127.0.0.1:63082] <-> InitialHandler has pinged
+19:05:52 [INFO] [/127.0.0.1:63087] <-> InitialHandler has pinged
+19:05:53 [INFO] [/127.0.0.1:56090] <-> InitialHandler has pinged
+19:05:55 [INFO] [/127.0.0.1:56092] <-> InitialHandler has pinged
+19:05:57 [INFO] [/127.0.0.1:56094] <-> InitialHandler has pinged
+19:05:59 [INFO] [/127.0.0.1:56096] <-> InitialHandler has pinged
+19:06:00 [INFO] [/127.0.0.1:56098] <-> InitialHandler has pinged
+19:06:02 [INFO] [/127.0.0.1:56100] <-> InitialHandler has pinged
+19:06:03 [INFO] [/127.0.0.1:56102] <-> InitialHandler has pinged
+19:06:05 [INFO] [/127.0.0.1:56104] <-> InitialHandler has pinged
+19:06:06 [INFO] [/127.0.0.1:56107] <-> InitialHandler has pinged
+19:06:08 [INFO] [/127.0.0.1:56109] <-> InitialHandler has pinged
+19:06:10 [INFO] [/127.0.0.1:56111] <-> InitialHandler has pinged
+19:06:12 [INFO] [/127.0.0.1:56114] <-> InitialHandler has pinged
+19:06:14 [INFO] [/127.0.0.1:56116] <-> InitialHandler has pinged
+19:06:16 [INFO] [/127.0.0.1:56118] <-> InitialHandler has pinged
+19:06:18 [INFO] [/127.0.0.1:56120] <-> InitialHandler has pinged
+19:06:20 [INFO] [/127.0.0.1:56122] <-> InitialHandler has pinged
+19:06:21 [INFO] [/127.0.0.1:56124] <-> InitialHandler has pinged
+19:06:23 [INFO] [/127.0.0.1:56127] <-> InitialHandler has pinged
+19:06:25 [INFO] [/127.0.0.1:56129] <-> InitialHandler has pinged
+19:06:26 [INFO] [/127.0.0.1:56131] <-> InitialHandler has pinged
+19:06:28 [INFO] [/127.0.0.1:56133] <-> InitialHandler has pinged
+19:06:29 [INFO] [/127.0.0.1:56135] <-> InitialHandler has pinged
+19:06:31 [INFO] [/127.0.0.1:56137] <-> InitialHandler has pinged
+19:06:32 [INFO] [/127.0.0.1:56139] <-> InitialHandler has pinged
+19:06:34 [INFO] [/127.0.0.1:56141] <-> InitialHandler has pinged
+19:06:35 [INFO] [/127.0.0.1:56143] <-> InitialHandler has pinged
+19:06:37 [INFO] [/127.0.0.1:56145] <-> InitialHandler has pinged
+19:06:39 [INFO] [/127.0.0.1:56148] <-> InitialHandler has pinged
+19:06:40 [INFO] [/127.0.0.1:56150] <-> InitialHandler has pinged
+19:06:42 [INFO] [/127.0.0.1:56153] <-> InitialHandler has pinged
+19:06:43 [INFO] [/127.0.0.1:56155] <-> InitialHandler has pinged
+19:06:45 [INFO] [/127.0.0.1:56157] <-> InitialHandler has pinged
+19:06:46 [INFO] [/127.0.0.1:56159] <-> InitialHandler has pinged
+19:06:48 [INFO] [/127.0.0.1:56161] <-> InitialHandler has pinged
+19:06:49 [INFO] [/127.0.0.1:56163] <-> InitialHandler has pinged
+19:06:51 [INFO] [/127.0.0.1:56165] <-> InitialHandler has pinged
+19:06:52 [INFO] [/127.0.0.1:56169] <-> InitialHandler has pinged
+19:06:54 [INFO] [/127.0.0.1:56172] <-> InitialHandler has pinged
+19:06:55 [INFO] [/127.0.0.1:56176] <-> InitialHandler has pinged
+19:06:57 [INFO] [/127.0.0.1:56179] <-> InitialHandler has pinged
+19:06:59 [INFO] [/127.0.0.1:56182] <-> InitialHandler has pinged
+19:07:00 [INFO] [/127.0.0.1:56185] <-> InitialHandler has pinged
+19:07:02 [INFO] [/127.0.0.1:56188] <-> InitialHandler has pinged
+19:07:03 [INFO] [/127.0.0.1:56191] <-> InitialHandler has pinged
+19:07:05 [INFO] [/127.0.0.1:56194] <-> InitialHandler has pinged
+19:07:06 [INFO] [/127.0.0.1:56197] <-> InitialHandler has pinged
+19:07:07 [INFO] [/127.0.0.1:56200] <-> InitialHandler has pinged
+19:07:09 [INFO] [/127.0.0.1:56203] <-> InitialHandler has pinged
+19:07:10 [INFO] [/127.0.0.1:56206] <-> InitialHandler has pinged
+19:07:12 [INFO] [/127.0.0.1:56209] <-> InitialHandler has pinged
+19:07:13 [INFO] [/127.0.0.1:56212] <-> InitialHandler has pinged
+19:07:15 [INFO] [/127.0.0.1:56215] <-> InitialHandler has pinged
+19:07:17 [INFO] [/127.0.0.1:56218] <-> InitialHandler has pinged
+19:07:18 [INFO] [/127.0.0.1:56221] <-> InitialHandler has pinged
+19:07:20 [INFO] [/127.0.0.1:56224] <-> InitialHandler has pinged
+19:07:21 [INFO] [/127.0.0.1:56227] <-> InitialHandler has pinged
+19:07:23 [INFO] [/127.0.0.1:56230] <-> InitialHandler has pinged
+19:07:25 [INFO] [/127.0.0.1:56233] <-> InitialHandler has pinged
+19:07:26 [INFO] [/127.0.0.1:56236] <-> InitialHandler has pinged
+19:07:28 [INFO] [/127.0.0.1:56239] <-> InitialHandler has pinged
+19:07:29 [INFO] [/127.0.0.1:56244] <-> InitialHandler has pinged
+19:07:31 [INFO] [/127.0.0.1:56250] <-> InitialHandler has pinged
+19:07:32 [INFO] [/127.0.0.1:56254] <-> InitialHandler has pinged
+19:07:34 [INFO] [/127.0.0.1:56257] <-> InitialHandler has pinged
+19:07:35 [INFO] [/127.0.0.1:56260] <-> InitialHandler has pinged
+19:07:37 [INFO] [/127.0.0.1:56263] <-> InitialHandler has pinged
+19:07:38 [INFO] [/127.0.0.1:56266] <-> InitialHandler has pinged
+19:07:40 [INFO] [/127.0.0.1:56269] <-> InitialHandler has pinged
+19:07:41 [INFO] [/127.0.0.1:56273] <-> InitialHandler has pinged
+19:07:43 [INFO] [/127.0.0.1:56276] <-> InitialHandler has pinged
+19:07:45 [INFO] [/127.0.0.1:56279] <-> InitialHandler has pinged
+19:07:46 [INFO] [/127.0.0.1:56284] <-> InitialHandler has pinged
+19:07:48 [INFO] [/127.0.0.1:56287] <-> InitialHandler has pinged
+19:07:49 [INFO] [/127.0.0.1:56290] <-> InitialHandler has pinged
+19:07:51 [INFO] [/127.0.0.1:56293] <-> InitialHandler has pinged
+19:07:53 [INFO] [/127.0.0.1:56296] <-> InitialHandler has pinged
+19:07:54 [INFO] [/127.0.0.1:56299] <-> InitialHandler has pinged
+19:07:56 [INFO] [/127.0.0.1:56302] <-> InitialHandler has pinged
+19:07:58 [INFO] [/127.0.0.1:56305] <-> InitialHandler has pinged
+19:07:59 [INFO] [/127.0.0.1:56308] <-> InitialHandler has pinged
+19:08:01 [INFO] [/127.0.0.1:56311] <-> InitialHandler has pinged
+19:08:02 [INFO] [/127.0.0.1:56314] <-> InitialHandler has pinged
+19:08:04 [INFO] [/127.0.0.1:56317] <-> InitialHandler has pinged
+19:08:06 [INFO] [/127.0.0.1:56320] <-> InitialHandler has pinged
+19:08:07 [INFO] [/127.0.0.1:56323] <-> InitialHandler has pinged
+19:08:09 [INFO] [/127.0.0.1:56326] <-> InitialHandler has pinged
+19:08:10 [INFO] [/127.0.0.1:56329] <-> InitialHandler has pinged
+19:08:12 [INFO] [/127.0.0.1:56332] <-> InitialHandler has pinged
+19:08:13 [INFO] [/127.0.0.1:56335] <-> InitialHandler has pinged
+19:08:15 [INFO] [/127.0.0.1:56338] <-> InitialHandler has pinged
+19:08:16 [INFO] [/127.0.0.1:56341] <-> InitialHandler has pinged
+19:08:18 [INFO] [/127.0.0.1:56344] <-> InitialHandler has pinged
+19:08:19 [INFO] [/127.0.0.1:56347] <-> InitialHandler has pinged
+19:08:21 [INFO] [/127.0.0.1:56350] <-> InitialHandler has pinged
+19:08:22 [INFO] [/127.0.0.1:56353] <-> InitialHandler has pinged
+19:08:24 [INFO] [/127.0.0.1:56356] <-> InitialHandler has pinged
+19:08:26 [INFO] [/127.0.0.1:56359] <-> InitialHandler has pinged
+19:08:27 [INFO] [/127.0.0.1:56362] <-> InitialHandler has pinged
+19:08:29 [INFO] [/127.0.0.1:56365] <-> InitialHandler has pinged
+19:08:30 [INFO] [/127.0.0.1:56368] <-> InitialHandler has pinged
+19:08:32 [INFO] [/127.0.0.1:56371] <-> InitialHandler has pinged
+19:08:33 [INFO] [/127.0.0.1:56374] <-> InitialHandler has pinged
+19:08:35 [INFO] [/127.0.0.1:56377] <-> InitialHandler has pinged
+19:08:37 [INFO] [/127.0.0.1:56380] <-> InitialHandler has pinged
+19:08:38 [INFO] [/127.0.0.1:56383] <-> InitialHandler has pinged
+19:08:40 [INFO] [/127.0.0.1:56386] <-> InitialHandler has pinged
+19:08:41 [INFO] [/127.0.0.1:56389] <-> InitialHandler has pinged
+19:08:43 [INFO] [/127.0.0.1:56392] <-> InitialHandler has pinged
+19:08:45 [INFO] [/127.0.0.1:56395] <-> InitialHandler has pinged
+19:08:46 [INFO] [/127.0.0.1:56398] <-> InitialHandler has pinged
+19:08:48 [INFO] [/127.0.0.1:56401] <-> InitialHandler has pinged
+19:08:50 [INFO] [/127.0.0.1:56404] <-> InitialHandler has pinged
+19:08:53 [INFO] [/127.0.0.1:52724] <-> InitialHandler has pinged
+19:08:55 [INFO] [/127.0.0.1:52727] <-> InitialHandler has pinged
+19:08:57 [INFO] [/127.0.0.1:52730] <-> InitialHandler has pinged
+19:08:58 [INFO] [/127.0.0.1:52733] <-> InitialHandler has pinged
+19:09:00 [INFO] [/127.0.0.1:52736] <-> InitialHandler has pinged
+19:09:02 [INFO] [/127.0.0.1:52744] <-> InitialHandler has pinged
+19:09:03 [INFO] [/127.0.0.1:52747] <-> InitialHandler has pinged
+19:09:05 [INFO] [/127.0.0.1:52750] <-> InitialHandler has pinged
+19:09:07 [INFO] [/127.0.0.1:52753] <-> InitialHandler has pinged
+19:09:09 [INFO] [/127.0.0.1:52756] <-> InitialHandler has pinged
+19:09:11 [INFO] [/127.0.0.1:52759] <-> InitialHandler has pinged
+19:09:13 [INFO] [/127.0.0.1:52762] <-> InitialHandler has pinged
+19:09:14 [INFO] [/127.0.0.1:52765] <-> InitialHandler has pinged
+19:09:16 [INFO] [/127.0.0.1:52768] <-> InitialHandler has pinged
+19:09:18 [INFO] [/127.0.0.1:52771] <-> InitialHandler has pinged
+19:09:19 [INFO] [/127.0.0.1:52774] <-> InitialHandler has pinged
+19:09:21 [INFO] [/127.0.0.1:52777] <-> InitialHandler has pinged
+19:09:23 [INFO] [/127.0.0.1:52780] <-> InitialHandler has pinged
+19:09:24 [INFO] [/127.0.0.1:52783] <-> InitialHandler has pinged
+19:09:26 [INFO] [/127.0.0.1:52786] <-> InitialHandler has pinged
+19:09:28 [INFO] [/127.0.0.1:52789] <-> InitialHandler has pinged
+19:09:30 [INFO] [/127.0.0.1:52792] <-> InitialHandler has pinged
+19:09:31 [INFO] [/127.0.0.1:52795] <-> InitialHandler has pinged
+19:09:33 [INFO] [/127.0.0.1:52798] <-> InitialHandler has pinged
+19:09:35 [INFO] [/127.0.0.1:52802] <-> InitialHandler has pinged
+19:09:37 [INFO] [/127.0.0.1:52805] <-> InitialHandler has pinged
+19:09:38 [INFO] [/127.0.0.1:52808] <-> InitialHandler has pinged
+19:09:40 [INFO] [/127.0.0.1:52811] <-> InitialHandler has pinged
+19:09:41 [INFO] [/127.0.0.1:52814] <-> InitialHandler has pinged
+19:09:43 [INFO] [/127.0.0.1:52817] <-> InitialHandler has pinged
+19:09:45 [INFO] [/127.0.0.1:52820] <-> InitialHandler has pinged
+19:09:46 [INFO] [/127.0.0.1:52824] <-> InitialHandler has pinged
+19:09:48 [INFO] [/127.0.0.1:52827] <-> InitialHandler has pinged
+19:09:50 [INFO] [/127.0.0.1:52830] <-> InitialHandler has pinged
+19:09:51 [INFO] [/127.0.0.1:52833] <-> InitialHandler has pinged
+19:09:53 [INFO] [/127.0.0.1:52836] <-> InitialHandler has pinged
+19:09:55 [INFO] [/127.0.0.1:52839] <-> InitialHandler has pinged
+19:09:57 [INFO] [/127.0.0.1:52842] <-> InitialHandler has pinged
+19:09:59 [INFO] [/127.0.0.1:52845] <-> InitialHandler has pinged
+19:10:01 [INFO] [/127.0.0.1:52848] <-> InitialHandler has pinged
+19:10:02 [INFO] [/127.0.0.1:52851] <-> InitialHandler has pinged
+19:10:05 [INFO] [/127.0.0.1:52854] <-> InitialHandler has pinged
+19:10:07 [INFO] [/127.0.0.1:52857] <-> InitialHandler has pinged
+19:10:08 [INFO] [/127.0.0.1:52861] <-> InitialHandler has pinged
+19:10:10 [INFO] [/127.0.0.1:52865] <-> InitialHandler has pinged
+19:10:12 [INFO] [/127.0.0.1:52868] <-> InitialHandler has pinged
+19:10:14 [INFO] [/127.0.0.1:52871] <-> InitialHandler has pinged
+19:10:15 [INFO] [/127.0.0.1:52874] <-> InitialHandler has pinged
+19:10:17 [INFO] [/127.0.0.1:52877] <-> InitialHandler has pinged
+19:10:19 [INFO] [/127.0.0.1:52880] <-> InitialHandler has pinged
+19:10:21 [INFO] [/127.0.0.1:52883] <-> InitialHandler has pinged
+19:10:23 [INFO] [/127.0.0.1:52886] <-> InitialHandler has pinged
+19:10:25 [INFO] [/127.0.0.1:52889] <-> InitialHandler has pinged
+19:10:26 [INFO] [/127.0.0.1:52892] <-> InitialHandler has pinged
+19:10:28 [INFO] [/127.0.0.1:52895] <-> InitialHandler has pinged
+19:10:31 [INFO] [/127.0.0.1:52899] <-> InitialHandler has pinged
+19:10:33 [INFO] [/127.0.0.1:52902] <-> InitialHandler has pinged
+19:10:34 [INFO] [/127.0.0.1:52905] <-> InitialHandler has pinged
+19:10:36 [INFO] [/127.0.0.1:52908] <-> InitialHandler has pinged
+19:10:38 [INFO] [/127.0.0.1:52911] <-> InitialHandler has pinged
+19:10:39 [INFO] [/127.0.0.1:52914] <-> InitialHandler has pinged
+19:10:42 [INFO] [/127.0.0.1:52917] <-> InitialHandler has pinged
+19:10:43 [INFO] [/127.0.0.1:52920] <-> InitialHandler has pinged
+19:10:45 [INFO] [/127.0.0.1:52925] <-> InitialHandler has pinged
+19:10:48 [INFO] [/127.0.0.1:52930] <-> InitialHandler has pinged
+19:10:50 [INFO] [/127.0.0.1:52937] <-> InitialHandler has pinged
+19:10:52 [INFO] [/127.0.0.1:52940] <-> InitialHandler has pinged
+19:10:54 [INFO] [/127.0.0.1:52946] <-> InitialHandler has pinged
+19:10:55 [INFO] [/127.0.0.1:52952] <-> InitialHandler has pinged
+19:10:57 [INFO] [/127.0.0.1:52956] <-> InitialHandler has pinged
+19:10:59 [INFO] [/127.0.0.1:52959] <-> InitialHandler has pinged
+19:11:01 [INFO] [/127.0.0.1:52962] <-> InitialHandler has pinged
+19:11:03 [INFO] [/127.0.0.1:52965] <-> InitialHandler has pinged
+19:11:04 [INFO] [/127.0.0.1:52968] <-> InitialHandler has pinged
+19:11:06 [INFO] [/127.0.0.1:52971] <-> InitialHandler has pinged
+19:11:07 [INFO] [/127.0.0.1:52974] <-> InitialHandler has pinged
+19:11:09 [INFO] [/127.0.0.1:52977] <-> InitialHandler has pinged
+19:11:11 [INFO] [/127.0.0.1:52981] <-> InitialHandler has pinged
+19:11:12 [INFO] [/127.0.0.1:52985] <-> InitialHandler has pinged
+19:11:14 [INFO] [/127.0.0.1:52988] <-> InitialHandler has pinged
+19:11:16 [INFO] [/127.0.0.1:52992] <-> InitialHandler has pinged
+19:11:18 [INFO] [/127.0.0.1:52995] <-> InitialHandler has pinged
+19:11:21 [INFO] [/127.0.0.1:52999] <-> InitialHandler has pinged
+19:11:23 [INFO] [/127.0.0.1:53007] <-> InitialHandler has pinged
+19:11:25 [INFO] [/127.0.0.1:53011] <-> InitialHandler has pinged
+19:11:27 [INFO] [/127.0.0.1:53015] <-> InitialHandler has pinged
+19:11:29 [INFO] [/127.0.0.1:53018] <-> InitialHandler has pinged
+19:11:30 [INFO] [/127.0.0.1:53024] <-> InitialHandler has pinged
+19:11:32 [INFO] [/127.0.0.1:53027] <-> InitialHandler has pinged
+19:11:34 [INFO] [/127.0.0.1:53030] <-> InitialHandler has pinged
+19:11:35 [INFO] [/127.0.0.1:53033] <-> InitialHandler has pinged
+19:11:37 [INFO] [/127.0.0.1:53036] <-> InitialHandler has pinged
+19:11:39 [INFO] [/127.0.0.1:53040] <-> InitialHandler has pinged
+19:11:41 [INFO] [/127.0.0.1:53043] <-> InitialHandler has pinged
+19:11:43 [INFO] [/127.0.0.1:53046] <-> InitialHandler has pinged
+19:11:44 [INFO] [/127.0.0.1:53049] <-> InitialHandler has pinged
+19:11:46 [INFO] [/127.0.0.1:53052] <-> InitialHandler has pinged
+19:11:47 [INFO] [/127.0.0.1:53055] <-> InitialHandler has pinged
+19:11:49 [INFO] [/127.0.0.1:53058] <-> InitialHandler has pinged
+19:11:51 [INFO] [/127.0.0.1:53061] <-> InitialHandler has pinged
+19:11:52 [INFO] [/127.0.0.1:53064] <-> InitialHandler has pinged
+19:11:54 [INFO] [/127.0.0.1:53067] <-> InitialHandler has pinged
+19:11:56 [INFO] [/127.0.0.1:53070] <-> InitialHandler has pinged
+19:11:58 [INFO] [/127.0.0.1:53075] <-> InitialHandler has pinged
+19:12:00 [INFO] [/127.0.0.1:53078] <-> InitialHandler has pinged
+19:12:02 [INFO] [/127.0.0.1:53081] <-> InitialHandler has pinged
+19:12:04 [INFO] [/127.0.0.1:53084] <-> InitialHandler has pinged
+19:12:05 [INFO] [/127.0.0.1:53087] <-> InitialHandler has pinged
+19:12:07 [INFO] [/127.0.0.1:53090] <-> InitialHandler has pinged
+19:12:08 [INFO] [/127.0.0.1:53093] <-> InitialHandler has pinged
+19:12:10 [INFO] [/127.0.0.1:53096] <-> InitialHandler has pinged
+19:12:11 [INFO] [/127.0.0.1:53099] <-> InitialHandler has pinged
+19:12:13 [INFO] [/127.0.0.1:53102] <-> InitialHandler has pinged
+19:12:14 [INFO] [/127.0.0.1:53105] <-> InitialHandler has pinged
+19:12:16 [INFO] [/127.0.0.1:53108] <-> InitialHandler has pinged
+19:12:17 [INFO] [/127.0.0.1:53111] <-> InitialHandler has pinged
+19:12:18 [INFO] [/127.0.0.1:53114] <-> InitialHandler has pinged
+19:12:19 [INFO] [/127.0.0.1:53117] <-> InitialHandler has pinged
+19:12:20 [INFO] [/127.0.0.1:53120] <-> InitialHandler has pinged
+19:12:22 [INFO] [/127.0.0.1:53123] <-> InitialHandler has pinged
+19:12:23 [INFO] [/127.0.0.1:53126] <-> InitialHandler has pinged
+19:12:24 [INFO] [/127.0.0.1:53129] <-> InitialHandler has pinged
+19:12:25 [INFO] [/127.0.0.1:53132] <-> InitialHandler has pinged
+19:12:26 [INFO] [/127.0.0.1:53135] <-> InitialHandler has pinged
+19:12:28 [INFO] [/127.0.0.1:53138] <-> InitialHandler has pinged
+19:12:29 [INFO] [/127.0.0.1:53141] <-> InitialHandler has pinged
+19:12:30 [INFO] [/127.0.0.1:53144] <-> InitialHandler has pinged
+19:12:31 [INFO] [/127.0.0.1:53147] <-> InitialHandler has pinged
+19:12:33 [INFO] [/127.0.0.1:53150] <-> InitialHandler has pinged
+19:12:34 [INFO] [/127.0.0.1:53153] <-> InitialHandler has pinged
+19:12:35 [INFO] [/127.0.0.1:53156] <-> InitialHandler has pinged
+19:12:36 [INFO] [/127.0.0.1:53159] <-> InitialHandler has pinged
+19:12:37 [INFO] [/127.0.0.1:53162] <-> InitialHandler has pinged
+19:12:39 [INFO] [/127.0.0.1:53165] <-> InitialHandler has pinged
+19:12:40 [INFO] [/127.0.0.1:53168] <-> InitialHandler has pinged
+19:12:40 [INFO] [/127.0.0.1:53171] <-> InitialHandler has pinged
+19:12:41 [INFO] [/127.0.0.1:53174] <-> InitialHandler has pinged
+19:12:42 [INFO] [/127.0.0.1:53177] <-> InitialHandler has pinged
+19:12:43 [INFO] [/127.0.0.1:53180] <-> InitialHandler has pinged
+19:12:43 [INFO] [/127.0.0.1:53183] <-> InitialHandler has pinged
+19:12:44 [INFO] [/127.0.0.1:53186] <-> InitialHandler has pinged
+19:12:45 [INFO] [/127.0.0.1:53189] <-> InitialHandler has pinged
+19:12:46 [INFO] [/127.0.0.1:53192] <-> InitialHandler has pinged
+19:12:47 [INFO] [/127.0.0.1:53195] <-> InitialHandler has pinged
+19:12:48 [INFO] [/127.0.0.1:53198] <-> InitialHandler has pinged
+19:12:49 [INFO] [/127.0.0.1:53201] <-> InitialHandler has pinged
+19:12:50 [INFO] [/127.0.0.1:53204] <-> InitialHandler has pinged
+19:12:51 [INFO] [/127.0.0.1:53207] <-> InitialHandler has pinged
+19:12:52 [INFO] [/127.0.0.1:53210] <-> InitialHandler has pinged
+19:12:53 [INFO] [/127.0.0.1:53214] <-> InitialHandler has pinged
+19:12:54 [INFO] [/127.0.0.1:53217] <-> InitialHandler has pinged
+19:12:55 [INFO] [/127.0.0.1:53220] <-> InitialHandler has pinged
+19:12:56 [INFO] [/127.0.0.1:53223] <-> InitialHandler has pinged
+19:12:57 [INFO] [/127.0.0.1:53226] <-> InitialHandler has pinged
+19:12:59 [INFO] [/127.0.0.1:53229] <-> InitialHandler has pinged
+19:13:00 [INFO] [/127.0.0.1:53232] <-> InitialHandler has pinged
+19:13:02 [INFO] [/127.0.0.1:53235] <-> InitialHandler has pinged
+19:13:03 [INFO] [/127.0.0.1:53238] <-> InitialHandler has pinged
+19:13:03 [INFO] [/127.0.0.1:53241] <-> InitialHandler has pinged
+19:13:04 [INFO] [/127.0.0.1:53244] <-> InitialHandler has pinged
+19:13:06 [INFO] [/127.0.0.1:53247] <-> InitialHandler has pinged
+19:13:06 [INFO] [/127.0.0.1:53250] <-> InitialHandler has pinged
+19:13:07 [INFO] [/127.0.0.1:53253] <-> InitialHandler has pinged
+19:13:08 [INFO] [/127.0.0.1:53256] <-> InitialHandler has pinged
+19:13:09 [INFO] [/127.0.0.1:53259] <-> InitialHandler has pinged
+19:13:10 [INFO] [/127.0.0.1:53262] <-> InitialHandler has pinged
+19:13:11 [INFO] [/127.0.0.1:53265] <-> InitialHandler has pinged
+19:13:12 [INFO] [/127.0.0.1:53268] <-> InitialHandler has pinged
+19:13:13 [INFO] [/127.0.0.1:53271] <-> InitialHandler has pinged
+19:13:14 [INFO] [/127.0.0.1:53274] <-> InitialHandler has pinged
+19:13:15 [INFO] [/127.0.0.1:53277] <-> InitialHandler has pinged
+19:13:17 [INFO] [/127.0.0.1:53280] <-> InitialHandler has pinged
+19:13:17 [INFO] [/127.0.0.1:53283] <-> InitialHandler has pinged
+19:13:18 [INFO] [/127.0.0.1:53286] <-> InitialHandler has pinged
+19:13:19 [INFO] [/127.0.0.1:53289] <-> InitialHandler has pinged
+19:13:20 [INFO] [/127.0.0.1:53292] <-> InitialHandler has pinged
+19:13:21 [INFO] [/127.0.0.1:53295] <-> InitialHandler has pinged
+19:13:22 [INFO] [/127.0.0.1:53298] <-> InitialHandler has pinged
+19:13:23 [INFO] [/127.0.0.1:53301] <-> InitialHandler has pinged
+19:13:24 [INFO] [/127.0.0.1:53304] <-> InitialHandler has pinged
+19:13:25 [INFO] [/127.0.0.1:53307] <-> InitialHandler has pinged
+19:13:26 [INFO] [/127.0.0.1:53310] <-> InitialHandler has pinged
+19:13:27 [INFO] [/127.0.0.1:53313] <-> InitialHandler has pinged
+19:13:29 [INFO] [/127.0.0.1:53316] <-> InitialHandler has pinged
+19:13:30 [INFO] [/127.0.0.1:53325] <-> InitialHandler has pinged
+19:13:31 [INFO] [/127.0.0.1:53328] <-> InitialHandler has pinged
+19:13:32 [INFO] [/127.0.0.1:53331] <-> InitialHandler has pinged
+19:13:33 [INFO] [/127.0.0.1:53334] <-> InitialHandler has pinged
+19:13:34 [INFO] [/127.0.0.1:53337] <-> InitialHandler has pinged
+19:13:35 [INFO] [/127.0.0.1:53340] <-> InitialHandler has pinged
+19:13:36 [INFO] [/127.0.0.1:53343] <-> InitialHandler has pinged
+19:13:37 [INFO] [/127.0.0.1:53346] <-> InitialHandler has pinged
+19:13:38 [INFO] [/127.0.0.1:53349] <-> InitialHandler has pinged
+19:13:39 [INFO] [/127.0.0.1:53352] <-> InitialHandler has pinged
+19:13:41 [INFO] [/127.0.0.1:53355] <-> InitialHandler has pinged
+19:13:42 [INFO] [/127.0.0.1:53358] <-> InitialHandler has pinged
+19:13:43 [INFO] [/127.0.0.1:53361] <-> InitialHandler has pinged
+19:13:44 [INFO] [/127.0.0.1:53364] <-> InitialHandler has pinged
+19:13:44 [INFO] [/127.0.0.1:53367] <-> InitialHandler has pinged
+19:13:45 [INFO] [/127.0.0.1:53370] <-> InitialHandler has pinged
+19:13:46 [INFO] [/127.0.0.1:53373] <-> InitialHandler has pinged
+19:13:47 [INFO] [/127.0.0.1:53376] <-> InitialHandler has pinged
+19:13:48 [INFO] [/127.0.0.1:53379] <-> InitialHandler has pinged
+19:13:49 [INFO] [/127.0.0.1:53382] <-> InitialHandler has pinged
+19:13:50 [INFO] [/127.0.0.1:53385] <-> InitialHandler has pinged
+19:13:51 [INFO] [/127.0.0.1:53388] <-> InitialHandler has pinged
+19:13:53 [INFO] [/127.0.0.1:53391] <-> InitialHandler has pinged
+19:13:54 [INFO] [/127.0.0.1:53394] <-> InitialHandler has pinged
+19:13:55 [INFO] [/127.0.0.1:53397] <-> InitialHandler has pinged
+19:13:56 [INFO] [/127.0.0.1:53400] <-> InitialHandler has pinged
+19:13:57 [INFO] [/127.0.0.1:53403] <-> InitialHandler has pinged
+19:13:59 [INFO] [/127.0.0.1:53406] <-> InitialHandler has pinged
+19:14:00 [INFO] [/127.0.0.1:53409] <-> InitialHandler has pinged
+19:14:01 [INFO] [/127.0.0.1:53412] <-> InitialHandler has pinged
+19:14:02 [INFO] [/127.0.0.1:53415] <-> InitialHandler has pinged
+19:14:03 [INFO] [/127.0.0.1:53418] <-> InitialHandler has pinged
+19:14:04 [INFO] [/127.0.0.1:53421] <-> InitialHandler has pinged
+19:14:06 [INFO] [/127.0.0.1:53424] <-> InitialHandler has pinged
+19:14:07 [INFO] [/127.0.0.1:53427] <-> InitialHandler has pinged
+19:14:08 [INFO] [/127.0.0.1:53431] <-> InitialHandler has pinged
+19:14:09 [INFO] [/127.0.0.1:53434] <-> InitialHandler has pinged
+19:14:10 [INFO] [/127.0.0.1:53437] <-> InitialHandler has pinged
+19:14:10 [INFO] [/127.0.0.1:53440] <-> InitialHandler has pinged
+19:14:11 [INFO] [/127.0.0.1:53443] <-> InitialHandler has pinged
+19:14:12 [INFO] [/127.0.0.1:53446] <-> InitialHandler has pinged
+19:14:13 [INFO] [/127.0.0.1:53449] <-> InitialHandler has pinged
+19:14:14 [INFO] [/127.0.0.1:53452] <-> InitialHandler has pinged
+19:14:14 [INFO] [/127.0.0.1:53455] <-> InitialHandler has pinged
+19:14:15 [INFO] [/127.0.0.1:53458] <-> InitialHandler has pinged
+19:14:16 [INFO] [/127.0.0.1:53461] <-> InitialHandler has pinged
+19:14:17 [INFO] [/127.0.0.1:53464] <-> InitialHandler has pinged
+19:14:18 [INFO] [/127.0.0.1:53467] <-> InitialHandler has pinged
+19:14:18 [INFO] [/127.0.0.1:53470] <-> InitialHandler has pinged
+19:14:19 [INFO] [/127.0.0.1:53473] <-> InitialHandler has pinged
+19:14:20 [INFO] [/127.0.0.1:53476] <-> InitialHandler has pinged
+19:14:21 [INFO] [/127.0.0.1:53479] <-> InitialHandler has pinged
+19:14:22 [INFO] [/127.0.0.1:53482] <-> InitialHandler has pinged
+19:14:22 [INFO] [/127.0.0.1:53485] <-> InitialHandler has pinged
+19:14:23 [INFO] [/127.0.0.1:53488] <-> InitialHandler has pinged
+19:14:24 [INFO] [/127.0.0.1:53491] <-> InitialHandler has pinged
+19:14:25 [INFO] [/127.0.0.1:53494] <-> InitialHandler has pinged
+19:14:26 [INFO] [/127.0.0.1:53497] <-> InitialHandler has pinged
+19:14:27 [INFO] [/127.0.0.1:53500] <-> InitialHandler has pinged
+19:14:28 [INFO] [/127.0.0.1:53503] <-> InitialHandler has pinged
+19:14:31 [INFO] [/127.0.0.1:53506] <-> InitialHandler has pinged
+19:14:32 [INFO] [/127.0.0.1:53509] <-> InitialHandler has pinged
+19:14:33 [INFO] [/127.0.0.1:53512] <-> InitialHandler has pinged
+19:14:34 [INFO] [/127.0.0.1:53515] <-> InitialHandler has pinged
+19:14:35 [INFO] [/127.0.0.1:53518] <-> InitialHandler has pinged
+19:14:36 [INFO] [/127.0.0.1:53521] <-> InitialHandler has pinged
+19:14:37 [INFO] [/127.0.0.1:53525] <-> InitialHandler has pinged
+19:14:38 [INFO] [/127.0.0.1:53528] <-> InitialHandler has pinged
+19:14:39 [INFO] [/127.0.0.1:53531] <-> InitialHandler has pinged
+19:14:40 [INFO] [/127.0.0.1:53534] <-> InitialHandler has pinged
+19:14:41 [INFO] [/127.0.0.1:53537] <-> InitialHandler has pinged
+19:14:42 [INFO] [/127.0.0.1:53540] <-> InitialHandler has pinged
+19:14:42 [INFO] [/127.0.0.1:62719] <-> InitialHandler has pinged
+19:14:43 [INFO] [/127.0.0.1:62722] <-> InitialHandler has pinged
+19:14:46 [INFO] [/127.0.0.1:62725] <-> InitialHandler has pinged
+19:14:48 [INFO] [/127.0.0.1:62728] <-> InitialHandler has pinged
+19:14:49 [INFO] [/127.0.0.1:62731] <-> InitialHandler has pinged
+19:14:51 [INFO] [/127.0.0.1:62734] <-> InitialHandler has pinged
+19:14:52 [INFO] [/127.0.0.1:62738] <-> InitialHandler has pinged
+19:14:54 [INFO] [/127.0.0.1:62741] <-> InitialHandler has pinged
+19:14:55 [INFO] [/127.0.0.1:62744] <-> InitialHandler has pinged
+19:14:56 [INFO] [/127.0.0.1:62747] <-> InitialHandler has pinged
+19:14:58 [INFO] [/127.0.0.1:62750] <-> InitialHandler has pinged
+19:14:59 [INFO] [/127.0.0.1:62753] <-> InitialHandler has pinged
+19:15:00 [INFO] [/127.0.0.1:62756] <-> InitialHandler has pinged
+19:15:02 [INFO] [/127.0.0.1:62759] <-> InitialHandler has pinged
+19:15:03 [INFO] [/127.0.0.1:62763] <-> InitialHandler has pinged
+19:15:05 [INFO] [/127.0.0.1:62766] <-> InitialHandler has pinged
+19:15:07 [INFO] [/127.0.0.1:62769] <-> InitialHandler has pinged
+19:15:08 [INFO] [/127.0.0.1:62772] <-> InitialHandler has pinged
+19:15:10 [INFO] [/127.0.0.1:62776] <-> InitialHandler has pinged
+19:15:12 [INFO] [/127.0.0.1:62779] <-> InitialHandler has pinged
+19:15:13 [INFO] [/127.0.0.1:62782] <-> InitialHandler has pinged
+19:15:14 [INFO] [/127.0.0.1:62785] <-> InitialHandler has pinged
+19:15:16 [INFO] [/127.0.0.1:62788] <-> InitialHandler has pinged
+19:15:17 [INFO] [/127.0.0.1:62791] <-> InitialHandler has pinged
+19:15:18 [INFO] [/127.0.0.1:62794] <-> InitialHandler has pinged
+19:15:19 [INFO] [/127.0.0.1:62797] <-> InitialHandler has pinged
+19:15:19 [INFO] [/127.0.0.1:62800] <-> InitialHandler has pinged
+19:15:20 [INFO] [/127.0.0.1:62803] <-> InitialHandler has pinged
+19:15:21 [INFO] [/127.0.0.1:62806] <-> InitialHandler has pinged
+19:15:21 [INFO] [/127.0.0.1:62809] <-> InitialHandler has pinged
+19:15:22 [INFO] [/127.0.0.1:62812] <-> InitialHandler has pinged
+19:15:23 [INFO] [/127.0.0.1:62815] <-> InitialHandler has pinged
+19:15:23 [INFO] [/127.0.0.1:62818] <-> InitialHandler has pinged
+19:15:24 [INFO] [/127.0.0.1:62824] <-> InitialHandler has pinged
+19:15:25 [INFO] [/127.0.0.1:62827] <-> InitialHandler has pinged
+19:15:26 [INFO] [/127.0.0.1:62830] <-> InitialHandler has pinged
+19:15:27 [INFO] [/127.0.0.1:62833] <-> InitialHandler has pinged
+19:15:28 [INFO] [/127.0.0.1:62836] <-> InitialHandler has pinged
+19:15:29 [INFO] [/127.0.0.1:62841] <-> InitialHandler has pinged
+19:15:30 [INFO] [/127.0.0.1:62846] <-> InitialHandler has pinged
+19:15:31 [INFO] [/127.0.0.1:62854] <-> InitialHandler has pinged
+19:15:32 [INFO] [/127.0.0.1:62858] <-> InitialHandler has pinged
+19:15:33 [INFO] [/127.0.0.1:62861] <-> InitialHandler has pinged
+19:15:34 [INFO] [/127.0.0.1:62864] <-> InitialHandler has pinged
+19:15:35 [INFO] [/127.0.0.1:62867] <-> InitialHandler has pinged
+19:15:36 [INFO] [/127.0.0.1:62870] <-> InitialHandler has pinged
+19:15:37 [INFO] [/127.0.0.1:62873] <-> InitialHandler has pinged
+19:15:38 [INFO] [/127.0.0.1:62876] <-> InitialHandler has pinged
+19:15:39 [INFO] [/127.0.0.1:62879] <-> InitialHandler has pinged
+19:15:40 [INFO] [/127.0.0.1:62882] <-> InitialHandler has pinged
+19:15:41 [INFO] [/127.0.0.1:62885] <-> InitialHandler has pinged
+19:15:42 [INFO] [/127.0.0.1:62888] <-> InitialHandler has pinged
+19:15:43 [INFO] [/127.0.0.1:62891] <-> InitialHandler has pinged
+19:15:44 [INFO] [/127.0.0.1:62894] <-> InitialHandler has pinged
+19:15:45 [INFO] [/127.0.0.1:62897] <-> InitialHandler has pinged
+19:15:46 [INFO] [/127.0.0.1:62900] <-> InitialHandler has pinged
+19:15:47 [INFO] [/127.0.0.1:62903] <-> InitialHandler has pinged
+19:15:48 [INFO] [/127.0.0.1:62906] <-> InitialHandler has pinged
+19:15:49 [INFO] [/127.0.0.1:62909] <-> InitialHandler has pinged
+19:15:50 [INFO] [/127.0.0.1:62912] <-> InitialHandler has pinged
+19:15:51 [INFO] [/127.0.0.1:62915] <-> InitialHandler has pinged
+19:15:52 [INFO] [/127.0.0.1:62918] <-> InitialHandler has pinged
+19:15:53 [INFO] [/127.0.0.1:62921] <-> InitialHandler has pinged
+19:15:54 [INFO] [/127.0.0.1:62924] <-> InitialHandler has pinged
+19:15:55 [INFO] [/127.0.0.1:62930] <-> InitialHandler has pinged
+19:15:56 [INFO] [/127.0.0.1:62933] <-> InitialHandler has pinged
+19:15:57 [INFO] [/127.0.0.1:62936] <-> InitialHandler has pinged
+19:15:58 [INFO] [/127.0.0.1:62939] <-> InitialHandler has pinged
+19:15:59 [INFO] [/127.0.0.1:62942] <-> InitialHandler has pinged
+19:16:00 [INFO] [/127.0.0.1:62945] <-> InitialHandler has pinged
+19:16:01 [INFO] [/127.0.0.1:62948] <-> InitialHandler has pinged
+19:16:02 [INFO] [/127.0.0.1:62951] <-> InitialHandler has pinged
+19:16:03 [INFO] [/127.0.0.1:62954] <-> InitialHandler has pinged
+19:16:04 [INFO] [/127.0.0.1:62957] <-> InitialHandler has pinged
+19:16:05 [INFO] [/127.0.0.1:62960] <-> InitialHandler has pinged
+19:16:06 [INFO] [/127.0.0.1:62963] <-> InitialHandler has pinged
+19:16:06 [INFO] [/127.0.0.1:62966] <-> InitialHandler has pinged
+19:16:11 [INFO] [/127.0.0.1:62970] <-> InitialHandler has pinged
+19:16:16 [INFO] [/127.0.0.1:62973] <-> InitialHandler has pinged
+19:16:21 [INFO] [/127.0.0.1:62976] <-> InitialHandler has pinged
+19:16:26 [INFO] [/127.0.0.1:62979] <-> InitialHandler has pinged
+19:16:27 [INFO] [/127.0.0.1:62982] <-> InitialHandler has pinged
+19:16:57 [INFO] [/127.0.0.1:64936] <-> InitialHandler has pinged
+19:17:27 [INFO] [/127.0.0.1:64947] <-> InitialHandler has pinged
+19:17:57 [INFO] [/127.0.0.1:63809] <-> InitialHandler has pinged
+19:18:27 [INFO] [/127.0.0.1:63815] <-> InitialHandler has pinged
+19:18:57 [INFO] [/127.0.0.1:49240] <-> InitialHandler has pinged
+19:19:27 [INFO] [/127.0.0.1:56633] <-> InitialHandler has pinged
+19:19:57 [INFO] [/127.0.0.1:56643] <-> InitialHandler has pinged
+19:20:27 [INFO] [/127.0.0.1:56647] <-> InitialHandler has pinged
+19:20:57 [INFO] [/127.0.0.1:56654] <-> InitialHandler has pinged
+19:21:27 [INFO] [/127.0.0.1:56663] <-> InitialHandler has pinged
+19:21:57 [INFO] [/127.0.0.1:56671] <-> InitialHandler has pinged
+19:22:27 [INFO] [/127.0.0.1:56678] <-> InitialHandler has pinged
+19:22:57 [INFO] [/127.0.0.1:56683] <-> InitialHandler has pinged
+19:23:27 [INFO] [/127.0.0.1:56689] <-> InitialHandler has pinged
+19:23:57 [INFO] [/127.0.0.1:56699] <-> InitialHandler has pinged
+19:24:27 [INFO] [/127.0.0.1:56703] <-> InitialHandler has pinged
+19:24:57 [INFO] [/127.0.0.1:56707] <-> InitialHandler has pinged
+19:25:27 [INFO] [/127.0.0.1:56714] <-> InitialHandler has pinged
+19:25:57 [INFO] [/127.0.0.1:56721] <-> InitialHandler has pinged
+19:26:27 [INFO] [/127.0.0.1:56732] <-> InitialHandler has pinged
+19:26:57 [INFO] [/127.0.0.1:56738] <-> InitialHandler has pinged
+19:27:27 [INFO] [/127.0.0.1:56741] <-> InitialHandler has pinged
+19:27:57 [INFO] [/127.0.0.1:56751] <-> InitialHandler has pinged
+19:28:27 [INFO] [/127.0.0.1:56755] <-> InitialHandler has pinged
+19:28:57 [INFO] [/127.0.0.1:56759] <-> InitialHandler has pinged
+19:29:27 [INFO] [/127.0.0.1:56763] <-> InitialHandler has pinged
+19:29:57 [INFO] [/127.0.0.1:56767] <-> InitialHandler has pinged
+19:30:27 [INFO] [/127.0.0.1:56775] <-> InitialHandler has pinged
+19:30:57 [INFO] [/127.0.0.1:56779] <-> InitialHandler has pinged
+19:31:27 [INFO] [/127.0.0.1:56787] <-> InitialHandler has pinged
+19:31:57 [INFO] [/127.0.0.1:56798] <-> InitialHandler has pinged
+19:32:27 [INFO] [/127.0.0.1:56802] <-> InitialHandler has pinged
+19:32:57 [INFO] [/127.0.0.1:56807] <-> InitialHandler has pinged
+19:33:27 [INFO] [/127.0.0.1:56816] <-> InitialHandler has pinged
+19:33:57 [INFO] [/127.0.0.1:56823] <-> InitialHandler has pinged
+19:34:27 [INFO] [/127.0.0.1:49381] <-> InitialHandler has pinged
+19:34:57 [INFO] [/127.0.0.1:61956] <-> InitialHandler has pinged
+19:35:27 [INFO] [/127.0.0.1:51161] <-> InitialHandler has pinged
+19:35:57 [INFO] [/127.0.0.1:51211] <-> InitialHandler has pinged
+19:36:27 [INFO] [/127.0.0.1:51221] <-> InitialHandler has pinged
+19:37:12 [INFO] [/127.0.0.1:51229] <-> InitialHandler has pinged
+19:37:54 [INFO] [/127.0.0.1:63165] <-> InitialHandler has pinged
+19:38:18 [INFO] [/127.0.0.1:63169] <-> InitialHandler has pinged
+19:39:05 [INFO] [/127.0.0.1:63180] <-> InitialHandler has pinged
+19:39:53 [INFO] [/127.0.0.1:63196] <-> InitialHandler has pinged
+19:40:40 [INFO] [/127.0.0.1:63217] <-> InitialHandler has pinged
+19:41:20 [INFO] [/127.0.0.1:63226] <-> InitialHandler has pinged
+19:42:09 [INFO] [/127.0.0.1:63240] <-> InitialHandler has pinged
+19:42:53 [INFO] [/127.0.0.1:63254] <-> InitialHandler has pinged
+19:43:39 [INFO] [/127.0.0.1:63269] <-> InitialHandler has pinged
+19:44:22 [INFO] [/127.0.0.1:63276] <-> InitialHandler has pinged
+19:45:08 [INFO] [/127.0.0.1:63288] <-> InitialHandler has pinged
+19:45:51 [INFO] [/127.0.0.1:63298] <-> InitialHandler has pinged
+19:46:35 [INFO] [/127.0.0.1:63314] <-> InitialHandler has pinged
+19:47:15 [INFO] [/127.0.0.1:63324] <-> InitialHandler has pinged
+19:47:55 [INFO] [/127.0.0.1:63334] <-> InitialHandler has pinged
+19:48:36 [INFO] [/127.0.0.1:63338] <-> InitialHandler has pinged
+19:49:19 [INFO] [/127.0.0.1:63346] <-> InitialHandler has pinged
+19:50:05 [INFO] [/127.0.0.1:63351] <-> InitialHandler has pinged
+19:50:51 [INFO] [/127.0.0.1:63355] <-> InitialHandler has pinged
+19:51:36 [INFO] [/127.0.0.1:63369] <-> InitialHandler has pinged
+19:52:25 [INFO] [/127.0.0.1:63377] <-> InitialHandler has pinged
+19:53:04 [INFO] [/127.0.0.1:63386] <-> InitialHandler has pinged
+19:53:41 [INFO] [/127.0.0.1:63396] <-> InitialHandler has pinged
+19:54:17 [INFO] [/127.0.0.1:63401] <-> InitialHandler has pinged
+19:54:55 [INFO] [/127.0.0.1:57168] <-> InitialHandler has pinged
+19:55:43 [INFO] [/127.0.0.1:57173] <-> InitialHandler has pinged
+19:56:44 [INFO] [/127.0.0.1:57182] <-> InitialHandler has pinged
+19:57:12 [INFO] [/127.0.0.1:57187] <-> InitialHandler has pinged
+19:58:03 [INFO] [/127.0.0.1:57199] <-> InitialHandler has pinged
+19:58:32 [INFO] [/127.0.0.1:57204] <-> InitialHandler has pinged
+19:59:10 [INFO] [/127.0.0.1:57212] <-> InitialHandler has pinged
+19:59:40 [INFO] [/127.0.0.1:57051] <-> InitialHandler has pinged
+19:59:49 [INFO] [/127.0.0.1:57054] <-> InitialHandler has pinged
+19:59:57 [INFO] [/127.0.0.1:57057] <-> InitialHandler has pinged
+20:00:04 [INFO] [/127.0.0.1:57062] <-> InitialHandler has pinged
+20:00:39 [INFO] [/127.0.0.1:57070] <-> InitialHandler has pinged
+20:01:11 [INFO] [/127.0.0.1:57079] <-> InitialHandler has pinged
+20:01:50 [INFO] [/127.0.0.1:57089] <-> InitialHandler has pinged
+20:02:28 [INFO] [/127.0.0.1:57097] <-> InitialHandler has pinged
+20:03:05 [INFO] [/127.0.0.1:57105] <-> InitialHandler has pinged
+20:03:42 [INFO] [/127.0.0.1:57115] <-> InitialHandler has pinged
+20:04:25 [INFO] [/127.0.0.1:57119] <-> InitialHandler has pinged
+20:05:13 [INFO] [/127.0.0.1:57124] <-> InitialHandler has pinged
+20:06:00 [INFO] [/127.0.0.1:57128] <-> InitialHandler has pinged
+20:06:47 [INFO] [/127.0.0.1:57139] <-> InitialHandler has pinged
+20:07:34 [INFO] [/127.0.0.1:57152] <-> InitialHandler has pinged
+20:08:21 [INFO] [/127.0.0.1:57156] <-> InitialHandler has pinged
+20:09:13 [INFO] [/127.0.0.1:53553] <-> InitialHandler has pinged
+20:10:01 [INFO] [/127.0.0.1:53574] <-> InitialHandler has pinged
+20:10:26 [INFO] [/127.0.0.1:53577] <-> InitialHandler has pinged
+20:10:52 [INFO] [/127.0.0.1:53582] <-> InitialHandler has pinged
+20:11:29 [INFO] [/127.0.0.1:53592] <-> InitialHandler has pinged
+20:11:37 [INFO] [/127.0.0.1:53599] <-> InitialHandler has pinged
+20:11:55 [INFO] [/127.0.0.1:53602] <-> InitialHandler has pinged
+20:12:42 [INFO] [/127.0.0.1:53607] <-> InitialHandler has pinged
+20:12:52 [INFO] [/127.0.0.1:53610] <-> InitialHandler has pinged
+20:13:06 [INFO] [/127.0.0.1:53615] <-> InitialHandler has pinged
+20:13:29 [INFO] [/127.0.0.1:53623] <-> InitialHandler has pinged
+20:14:14 [INFO] [/127.0.0.1:53631] <-> InitialHandler has pinged
+20:14:25 [INFO] [/127.0.0.1:53635] <-> InitialHandler has pinged
+20:14:45 [INFO] [/127.0.0.1:53639] <-> InitialHandler has pinged
+20:15:18 [INFO] [/127.0.0.1:53644] <-> InitialHandler has pinged
+20:15:30 [INFO] [/127.0.0.1:53650] <-> InitialHandler has pinged
+20:15:52 [INFO] [/127.0.0.1:53657] <-> InitialHandler has pinged
+20:16:23 [INFO] [/127.0.0.1:53666] <-> InitialHandler has pinged
+20:17:16 [INFO] [/127.0.0.1:53688] <-> InitialHandler has pinged
+20:18:00 [INFO] [/127.0.0.1:53699] <-> InitialHandler has pinged
+20:18:43 [INFO] [/127.0.0.1:53703] <-> InitialHandler has pinged
+20:19:35 [INFO] [/127.0.0.1:53739] <-> InitialHandler has pinged
+20:20:27 [INFO] [/127.0.0.1:53759] <-> InitialHandler has pinged
+20:21:21 [INFO] [/127.0.0.1:53784] <-> InitialHandler has pinged
+20:21:58 [INFO] [/127.0.0.1:53793] <-> InitialHandler has pinged
+20:22:14 [INFO] [/127.0.0.1:53798] <-> InitialHandler has pinged
+20:22:39 [INFO] [/127.0.0.1:53803] <-> InitialHandler has pinged
+20:23:15 [INFO] [/127.0.0.1:53810] <-> InitialHandler has pinged
+20:23:27 [INFO] [/127.0.0.1:53814] <-> InitialHandler has pinged
+20:23:40 [INFO] [/127.0.0.1:53824] <-> InitialHandler has pinged
+20:23:51 [INFO] [/127.0.0.1:53831] <-> InitialHandler has pinged
+20:24:29 [INFO] [/127.0.0.1:57587] <-> InitialHandler has pinged
+20:24:53 [INFO] [/127.0.0.1:57590] <-> InitialHandler has pinged
+20:25:28 [INFO] [/127.0.0.1:57594] <-> InitialHandler has pinged
+20:26:01 [INFO] [/127.0.0.1:57599] <-> InitialHandler has pinged
+20:26:35 [INFO] [/127.0.0.1:57610] <-> InitialHandler has pinged
+20:27:08 [INFO] [/127.0.0.1:57617] <-> InitialHandler has pinged
+20:27:41 [INFO] [/127.0.0.1:57628] <-> InitialHandler has pinged
+20:28:14 [INFO] [/127.0.0.1:57633] <-> InitialHandler has pinged
+20:28:47 [INFO] [/127.0.0.1:57637] <-> InitialHandler has pinged
+20:29:20 [INFO] [/127.0.0.1:57641] <-> InitialHandler has pinged
+20:29:54 [INFO] [/127.0.0.1:57652] <-> InitialHandler has pinged
+20:30:27 [INFO] [/127.0.0.1:57659] <-> InitialHandler has pinged
+20:31:01 [INFO] [/127.0.0.1:57664] <-> InitialHandler has pinged
+20:31:35 [INFO] [/127.0.0.1:57676] <-> InitialHandler has pinged
+20:32:10 [INFO] [/127.0.0.1:57682] <-> InitialHandler has pinged
+20:32:51 [INFO] [/127.0.0.1:57686] <-> InitialHandler has pinged
+20:33:32 [INFO] [/127.0.0.1:57696] <-> InitialHandler has pinged
+20:34:14 [INFO] [/127.0.0.1:57705] <-> InitialHandler has pinged
+20:34:55 [INFO] [/127.0.0.1:57709] <-> InitialHandler has pinged
+20:35:37 [INFO] [/127.0.0.1:57713] <-> InitialHandler has pinged
+20:36:19 [INFO] [/127.0.0.1:57721] <-> InitialHandler has pinged
+20:37:00 [INFO] [/127.0.0.1:57729] <-> InitialHandler has pinged
+20:37:41 [INFO] [/127.0.0.1:57741] <-> InitialHandler has pinged
+20:38:22 [INFO] [/127.0.0.1:57745] <-> InitialHandler has pinged
+20:39:04 [INFO] [/127.0.0.1:57750] <-> InitialHandler has pinged
+20:39:45 [INFO] [/127.0.0.1:57756] <-> InitialHandler has pinged
+20:40:26 [INFO] [/127.0.0.1:57760] <-> InitialHandler has pinged
+20:41:07 [INFO] [/127.0.0.1:57764] <-> InitialHandler has pinged
+20:41:48 [INFO] [/127.0.0.1:57775] <-> InitialHandler has pinged
+20:42:28 [INFO] [/127.0.0.1:57779] <-> InitialHandler has pinged
+20:43:09 [INFO] [/127.0.0.1:57784] <-> InitialHandler has pinged
+20:43:51 [INFO] [/127.0.0.1:57794] <-> InitialHandler has pinged
+20:44:33 [INFO] [/127.0.0.1:57798] <-> InitialHandler has pinged
+20:45:14 [INFO] [/127.0.0.1:57812] <-> InitialHandler has pinged
+20:45:55 [INFO] [/127.0.0.1:57825] <-> InitialHandler has pinged
+20:46:35 [INFO] [/127.0.0.1:57836] <-> InitialHandler has pinged
+20:47:16 [INFO] [/127.0.0.1:57844] <-> InitialHandler has pinged
+20:47:56 [INFO] [/127.0.0.1:57854] <-> InitialHandler has pinged
+20:48:30 [INFO] [/127.0.0.1:57858] <-> InitialHandler has pinged
+20:49:03 [INFO] [/127.0.0.1:57861] <-> InitialHandler has pinged
+20:49:35 [INFO] [/127.0.0.1:57866] <-> InitialHandler has pinged
+20:50:07 [INFO] [/127.0.0.1:57869] <-> InitialHandler has pinged
+20:50:40 [INFO] [/127.0.0.1:57874] <-> InitialHandler has pinged
+20:51:13 [INFO] [/127.0.0.1:57879] <-> InitialHandler has pinged
+20:51:47 [INFO] [/127.0.0.1:57892] <-> InitialHandler has pinged
+20:52:19 [INFO] [/127.0.0.1:57897] <-> InitialHandler has pinged
+20:52:52 [INFO] [/127.0.0.1:57901] <-> InitialHandler has pinged
+20:53:24 [INFO] [/127.0.0.1:57906] <-> InitialHandler has pinged
+20:53:56 [INFO] [/127.0.0.1:57916] <-> InitialHandler has pinged
+20:54:29 [INFO] [/127.0.0.1:57920] <-> InitialHandler has pinged
+20:55:01 [INFO] [/127.0.0.1:57924] <-> InitialHandler has pinged
+20:55:34 [INFO] [/127.0.0.1:57931] <-> InitialHandler has pinged
+20:56:07 [INFO] [/127.0.0.1:57935] <-> InitialHandler has pinged
+20:56:39 [INFO] [/127.0.0.1:57943] <-> InitialHandler has pinged
+20:57:13 [INFO] [/127.0.0.1:57947] <-> InitialHandler has pinged
+20:57:53 [INFO] [/127.0.0.1:57957] <-> InitialHandler has pinged
+20:58:34 [INFO] [/127.0.0.1:57962] <-> InitialHandler has pinged
+20:59:14 [INFO] [/127.0.0.1:57966] <-> InitialHandler has pinged
+20:59:55 [INFO] [/127.0.0.1:57973] <-> InitialHandler has pinged
+21:00:36 [INFO] [/127.0.0.1:57981] <-> InitialHandler has pinged
+21:01:17 [INFO] [/127.0.0.1:57987] <-> InitialHandler has pinged
+21:01:58 [INFO] [/127.0.0.1:57998] <-> InitialHandler has pinged
+21:02:38 [INFO] [/127.0.0.1:58002] <-> InitialHandler has pinged
+21:03:19 [INFO] [/127.0.0.1:58007] <-> InitialHandler has pinged
+21:03:59 [INFO] [/127.0.0.1:58011] <-> InitialHandler has pinged
+21:04:40 [INFO] [/127.0.0.1:58015] <-> InitialHandler has pinged
+21:05:20 [INFO] [/127.0.0.1:58019] <-> InitialHandler has pinged
+21:06:01 [INFO] [/127.0.0.1:58029] <-> InitialHandler has pinged
+21:06:43 [INFO] [/127.0.0.1:58040] <-> InitialHandler has pinged
+21:07:30 [INFO] [/127.0.0.1:64758] <-> InitialHandler has pinged
+21:08:13 [INFO] [/127.0.0.1:64766] <-> InitialHandler has pinged
+21:08:49 [INFO] [/127.0.0.1:64771] <-> InitialHandler has pinged
+21:09:14 [INFO] [/127.0.0.1:64776] <-> InitialHandler has pinged
+21:09:44 [INFO] [/127.0.0.1:59118] <-> InitialHandler has pinged
+21:10:14 [INFO] [/127.0.0.1:59121] <-> InitialHandler has pinged
+21:10:44 [INFO] [/127.0.0.1:59133] <-> InitialHandler has pinged
+21:11:15 [INFO] [/127.0.0.1:59139] <-> InitialHandler has pinged
+21:11:44 [INFO] [/127.0.0.1:59150] <-> InitialHandler has pinged
+21:12:14 [INFO] [/127.0.0.1:59154] <-> InitialHandler has pinged
+21:12:44 [INFO] [/127.0.0.1:59167] <-> InitialHandler has pinged
+21:13:15 [INFO] [/127.0.0.1:59172] <-> InitialHandler has pinged
+21:13:47 [INFO] [/127.0.0.1:59183] <-> InitialHandler has pinged
+21:14:38 [INFO] [/127.0.0.1:60141] <-> InitialHandler has pinged
+21:15:36 [INFO] [/127.0.0.1:60148] <-> InitialHandler has pinged
+21:16:38 [INFO] [/127.0.0.1:50416] <-> InitialHandler has pinged
+21:17:04 [INFO] [/127.0.0.1:50421] <-> InitialHandler has pinged
+21:17:10 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+21:17:11 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+21:17:28 [INFO] [/127.0.0.1:50428] <-> InitialHandler has pinged
+21:17:58 [INFO] [/127.0.0.1:50437] <-> InitialHandler has pinged
+21:18:28 [INFO] [/127.0.0.1:50441] <-> InitialHandler has pinged
+21:18:58 [INFO] [/127.0.0.1:54486] <-> InitialHandler has pinged
+21:19:01 [INFO] [N0bleDeath] disconnected with: §fServer closed
+21:19:01 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:19:01 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+21:19:21 [INFO] [N0bleDeath,/127.0.0.1:54488] <-> InitialHandler has connected
+21:19:23 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:19:31 [INFO] [/127.0.0.1:54497] <-> InitialHandler has pinged
+21:20:24 [INFO] [/127.0.0.1:52244] <-> InitialHandler has pinged
+21:21:13 [INFO] [/127.0.0.1:52252] <-> InitialHandler has pinged
+21:22:03 [INFO] [/127.0.0.1:52265] <-> InitialHandler has pinged
+21:22:51 [INFO] [/127.0.0.1:52270] <-> InitialHandler has pinged
+21:23:46 [INFO] [/127.0.0.1:52283] <-> InitialHandler has pinged
+21:24:30 [INFO] [/127.0.0.1:57301] <-> InitialHandler has pinged
+21:25:03 [INFO] [/127.0.0.1:57320] <-> InitialHandler has pinged
+21:25:31 [INFO] [/127.0.0.1:60884] <-> InitialHandler has pinged
+21:25:42 [INFO] [/127.0.0.1:60888] <-> InitialHandler has pinged
+21:25:53 [INFO] [/127.0.0.1:60892] <-> InitialHandler has pinged
+21:26:22 [INFO] [/127.0.0.1:60434] <-> InitialHandler has pinged
+21:27:03 [INFO] [/127.0.0.1:60446] <-> InitialHandler has pinged
+21:27:43 [INFO] [/127.0.0.1:60458] <-> InitialHandler has pinged
+21:28:14 [INFO] [/127.0.0.1:60464] <-> InitialHandler has pinged
+21:28:38 [INFO] [/127.0.0.1:60469] <-> InitialHandler has pinged
+21:28:45 [INFO] [/127.0.0.1:60472] <-> InitialHandler has pinged
+21:29:21 [INFO] [/127.0.0.1:60476] <-> InitialHandler has pinged
+21:30:00 [INFO] [/127.0.0.1:60487] <-> InitialHandler has pinged
+21:30:41 [INFO] [/127.0.0.1:60503] <-> InitialHandler has pinged
+21:31:19 [INFO] [/127.0.0.1:49633] <-> InitialHandler has pinged
+21:31:59 [INFO] [/127.0.0.1:49646] <-> InitialHandler has pinged
+21:32:39 [INFO] [/127.0.0.1:60264] <-> InitialHandler has pinged
+21:32:57 [INFO] [/127.0.0.1:60268] <-> InitialHandler has pinged
+21:33:10 [INFO] [/127.0.0.1:60273] <-> InitialHandler has pinged
+21:33:21 [INFO] [/127.0.0.1:60276] <-> InitialHandler has pinged
+21:34:00 [INFO] [/127.0.0.1:60284] <-> InitialHandler has pinged
+21:34:37 [INFO] [/127.0.0.1:60289] <-> InitialHandler has pinged
+21:35:26 [INFO] [/127.0.0.1:60293] <-> InitialHandler has pinged
+21:35:51 [INFO] [/127.0.0.1:60301] <-> InitialHandler has pinged
+21:36:40 [INFO] [/127.0.0.1:60310] <-> InitialHandler has pinged
+21:37:30 [INFO] [/127.0.0.1:60320] <-> InitialHandler has pinged
+21:38:17 [INFO] [/127.0.0.1:60331] <-> InitialHandler has pinged
+21:39:05 [INFO] [/127.0.0.1:60337] <-> InitialHandler has pinged
+21:39:51 [INFO] [/127.0.0.1:60345] <-> InitialHandler has pinged
+21:40:37 [INFO] [/127.0.0.1:60349] <-> InitialHandler has pinged
+21:41:24 [INFO] [/127.0.0.1:60356] <-> InitialHandler has pinged
+21:42:13 [INFO] [/127.0.0.1:60367] <-> InitialHandler has pinged
+21:42:59 [INFO] [/127.0.0.1:60375] <-> InitialHandler has pinged
+21:43:47 [INFO] [/127.0.0.1:60384] <-> InitialHandler has pinged
+21:44:33 [INFO] [/127.0.0.1:60389] <-> InitialHandler has pinged
+21:44:53 [INFO] [/127.0.0.1:60395] <-> InitialHandler has pinged
+21:45:39 [INFO] [/127.0.0.1:60403] <-> InitialHandler has pinged
+21:46:27 [INFO] [/127.0.0.1:60418] <-> InitialHandler has pinged
+21:47:11 [INFO] [/127.0.0.1:60431] <-> InitialHandler has pinged
+21:47:24 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:47:24 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+21:47:37 [INFO] Closing listener [id: 0xa985ba7f, L:/[0:0:0:0:0:0:0:0]:25565]
+21:47:37 [INFO] Closing pending connections
+21:47:37 [INFO] Disconnecting 0 connections
+21:47:38 [INFO] Disabling plugins
+21:47:38 [INFO] Closing IO threads
+08:07:31 [INFO] Using standard Java JCE cipher.
+08:07:31 [INFO] Using standard Java compressor.
+08:07:31 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+08:07:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+08:07:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [WARNING] Error loading plugin PlaceholderAPI
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:271)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 13 more
+08:07:32 [WARNING] Forced host server pvp is not defined
+08:07:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+08:07:33 [INFO] Listening on /0.0.0.0:25565
+08:14:22 [INFO] [/127.0.0.1:56270] <-> InitialHandler has connected
+08:14:22 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+08:14:30 [INFO] Netty is not using direct IO buffers.
+
+08:14:36 [INFO] [/127.0.0.1:56278] <-> InitialHandler has pinged
+08:31:53 [INFO] [N0bleDeath] disconnected with: §fServer closed
+08:31:53 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+08:31:53 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+08:32:54 [INFO] [/127.0.0.1:56493] <-> InitialHandler has connected
+08:32:55 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+08:35:29 [INFO] [N0bleDeath] disconnected with: §fServer closed
+08:35:29 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+08:35:29 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+08:36:44 [INFO] [/127.0.0.1:56552] <-> InitialHandler has connected
+08:37:26 [INFO] [N0bleDeath,/127.0.0.1:56560] <-> InitialHandler has connected
+08:37:27 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+08:45:01 [INFO] [N0bleDeath] disconnected with: §fServer closed
+08:45:01 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+08:45:01 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+08:46:43 [INFO] [N0bleDeath,/127.0.0.1:56668] <-> InitialHandler has connected
+08:46:45 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+08:47:49 [INFO] [N0bleDeath] disconnected with: §fServer closed
+08:47:49 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+08:47:49 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+08:49:31 [INFO] [/127.0.0.1:56710] <-> InitialHandler has pinged
+08:49:40 [INFO] [N0bleDeath,/127.0.0.1:56712] <-> InitialHandler has connected
+08:49:40 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+08:56:14 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+08:56:15 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+09:07:35 [INFO] [N0bleDeath] disconnected with: §fServer closed
+09:07:35 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+09:07:35 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+09:08:41 [INFO] Closing listener [id: 0x3a954722, L:/[0:0:0:0:0:0:0:0]:25565]
+09:08:41 [INFO] Closing pending connections
+09:08:41 [INFO] Disconnecting 0 connections
+09:08:42 [INFO] Disabling plugins
+09:08:42 [INFO] Closing IO threads
+13:02:49 [INFO] Using standard Java JCE cipher.
+13:02:49 [INFO] Using standard Java compressor.
+13:02:49 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+13:02:49 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:02:49 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+13:02:49 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+13:02:49 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+13:02:49 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+13:02:49 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:02:50 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [WARNING] Error loading plugin PlaceholderAPI
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:271)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 13 more
+13:02:50 [WARNING] Forced host server pvp is not defined
+13:02:50 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+13:02:50 [INFO] Listening on /0.0.0.0:25565
+13:07:08 [INFO] [/127.0.0.1:65328] <-> InitialHandler has pinged
+13:07:13 [INFO] [N0bleDeath,/127.0.0.1:65329] <-> InitialHandler has connected
+13:07:14 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+13:07:22 [INFO] Netty is not using direct IO buffers.
+
+13:08:03 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+13:08:03 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+13:08:14 [INFO] [N0bleDeath,/127.0.0.1:65363] <-> InitialHandler has connected
+13:08:14 [INFO] [/127.0.0.1:65364] <-> InitialHandler has pinged
+13:08:15 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+13:09:11 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+13:09:12 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+13:09:31 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+13:09:32 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+13:10:11 [INFO] [N0bleDeath] disconnected with: §fServer closed
+13:10:11 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+13:10:11 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+13:10:14 [INFO] Closing listener [id: 0xfab64a0d, L:/[0:0:0:0:0:0:0:0]:25565]
+13:10:14 [INFO] Closing pending connections
+13:10:14 [INFO] Disconnecting 0 connections
+13:10:14 [INFO] Disabling plugins
+13:10:14 [INFO] Closing IO threads
+22:49:34 [INFO] Using standard Java JCE cipher.
+22:49:34 [INFO] Using standard Java compressor.
+22:49:34 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+22:49:34 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:49:34 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [WARNING] Error loading plugin DiscordSRV
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:271)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 13 more
+22:49:34 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [WARNING] Error loading plugin PlaceholderAPI
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:152)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:271)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 13 more
+22:49:34 [WARNING] Forced host server pvp is not defined
+22:49:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:49:34 [INFO] Listening on /0.0.0.0:25565
+22:50:08 [INFO] §cCommand not found
+22:50:11 [INFO] §cCommand not found
+22:50:13 [INFO] Closing listener [id: 0x81ed9065, L:/[0:0:0:0:0:0:0:0]:25565]
+22:50:13 [INFO] Closing pending connections
+22:50:13 [INFO] Disconnecting 0 connections
+22:50:13 [INFO] Disabling plugins
+22:50:13 [INFO] Closing IO threads
+22:50:36 [INFO] Using standard Java JCE cipher.
+22:50:36 [INFO] Using standard Java compressor.
+22:50:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+22:50:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:50:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [WARNING] Forced host server pvp is not defined
+22:50:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+22:50:36 [INFO] Listening on /0.0.0.0:25565
+22:52:33 [INFO] [/127.0.0.1:51135] <-> InitialHandler has pinged
+22:52:42 [INFO] [/127.0.0.1:51141] <-> InitialHandler has connected
+22:52:43 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:52:52 [INFO] Netty is not using direct IO buffers.
+
+22:59:57 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:59:57 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+23:00:01 [INFO] [/127.0.0.1:51258] <-> InitialHandler has pinged
+23:00:12 [INFO] [/127.0.0.1:51268] <-> InitialHandler has connected
+23:00:13 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+23:08:06 [INFO] Closing listener [id: 0x0b5d68c0, L:/[0:0:0:0:0:0:0:0]:25565]
+23:08:06 [INFO] Closing pending connections
+23:08:06 [INFO] Disconnecting 1 connections
+23:08:06 [INFO] [N0bleDeath] disconnected with: §f[Proxy] Proxy restarting.
+23:08:06 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+23:08:06 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+23:08:07 [INFO] Disabling plugins
+23:08:07 [INFO] Closing IO threads
+21:57:26 [INFO] Using standard Java JCE cipher.
+21:57:26 [INFO] Using standard Java compressor.
+21:57:26 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+21:57:26 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:57:26 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+21:57:26 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+21:57:26 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+21:57:26 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+21:57:26 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:57:27 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [WARNING] Forced host server pvp is not defined
+21:57:27 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:27 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+21:57:28 [INFO] Listening on /0.0.0.0:25565
+21:59:53 [INFO] [/127.0.0.1:59679] <-> InitialHandler has connected
+21:59:54 [INFO] [N0bleDeath] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+21:59:54 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:59:54 [INFO] [/127.0.0.1:59684] <-> InitialHandler has pinged
+22:00:08 [INFO] [/127.0.0.1:59690] <-> InitialHandler has connected
+22:00:09 [INFO] [N0bleDeath] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+22:00:09 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:02:00 [INFO] [/127.0.0.1:59716] <-> InitialHandler has connected
+22:02:02 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:02:11 [INFO] Netty is not using direct IO buffers.
+
+22:02:34 [INFO] [N0bleDeath] <-> ServerConnector [rankup] has connected
+22:02:34 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:23:01 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:23:01 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:23:01 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [rankup] has disconnected
+22:23:05 [INFO] Closing listener [id: 0xa192f0dd, L:/[0:0:0:0:0:0:0:0]:25565]
+22:23:05 [INFO] Closing pending connections
+22:23:05 [INFO] Disconnecting 0 connections
+22:23:06 [INFO] Disabling plugins
+22:23:06 [INFO] Closing IO threads
+19:58:50 [INFO] Using standard Java JCE cipher.
+19:58:50 [INFO] Using standard Java compressor.
+19:58:50 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+19:58:51 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+19:58:51 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [WARNING] Forced host server pvp is not defined
+19:58:51 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+19:58:51 [INFO] Listening on /0.0.0.0:25565
+20:04:49 [INFO] [/127.0.0.1:54018] <-> InitialHandler has connected
+20:04:50 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+20:04:58 [INFO] Netty is not using direct IO buffers.
+
+22:05:32 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:05:32 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:05:32 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:07:27 [INFO] [/127.0.0.1:52835] <-> InitialHandler has connected
+22:07:49 [INFO] [/127.0.0.1:52848] <-> InitialHandler has pinged
+22:08:04 [INFO] [N0bleDeath,/127.0.0.1:52852] <-> InitialHandler has connected
+22:08:05 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:08:11 [INFO] §cCommand not found
+22:15:40 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:15:40 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:15:43 [INFO] [/127.0.0.1:52949] <-> InitialHandler has pinged
+22:15:53 [INFO] [N0bleDeath,/127.0.0.1:52952] <-> InitialHandler has connected
+22:15:54 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:20:13 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:20:13 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:20:13 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:21:26 [INFO] [N0bleDeath,/127.0.0.1:53025] <-> InitialHandler has connected
+22:21:27 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:27:57 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:27:57 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:27:57 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:29:34 [INFO] [N0bleDeath,/127.0.0.1:53126] <-> InitialHandler has connected
+22:29:35 [INFO] [N0bleDeath] disconnected with: §cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+22:29:35 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:30:48 [INFO] [N0bleDeath,/127.0.0.1:53159] <-> InitialHandler has connected
+22:30:49 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:32:24 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:32:24 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:32:24 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:37:47 [INFO] [N0bleDeath,/127.0.0.1:53227] <-> InitialHandler has connected
+22:37:48 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+22:50:47 [INFO] [N0bleDeath] disconnected with: §fServer closed
+22:50:47 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+22:50:47 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+22:52:10 [INFO] [N0bleDeath,/127.0.0.1:53412] <-> InitialHandler has connected
+22:52:12 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+23:01:06 [INFO] [N0bleDeath] disconnected with: §fServer closed
+23:01:06 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+23:01:06 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+23:01:24 [INFO] Closing listener [id: 0xe68d5402, L:/[0:0:0:0:0:0:0:0]:25565]
+23:01:24 [INFO] Closing pending connections
+23:01:24 [INFO] Disconnecting 0 connections
+23:01:25 [INFO] Disabling plugins
+23:01:25 [INFO] Closing IO threads
+20:19:52 [INFO] Using standard Java JCE cipher.
+20:19:52 [INFO] Using standard Java compressor.
+20:19:52 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+20:19:52 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:19:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [WARNING] Forced host server pvp is not defined
+20:19:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:19:53 [INFO] Listening on /0.0.0.0:25565
+20:21:34 [INFO] [/127.0.0.1:56424] <-> InitialHandler has connected
+20:21:35 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+20:21:42 [INFO] Netty is not using direct IO buffers.
+
+20:24:22 [INFO] §cCommand not found
+20:24:24 [INFO] Closing listener [id: 0x09f24d48, L:/[0:0:0:0:0:0:0:0]:25565]
+20:24:24 [INFO] Closing pending connections
+20:24:24 [INFO] Disconnecting 1 connections
+20:24:24 [INFO] [N0bleDeath] disconnected with: §f[Proxy] Proxy restarting.
+20:24:24 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+20:24:24 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+20:24:25 [INFO] Disabling plugins
+20:24:25 [INFO] Closing IO threads
+20:24:27 [INFO] Thank you and goodbye
+20:24:52 [INFO] Using standard Java JCE cipher.
+20:24:52 [INFO] Using standard Java compressor.
+20:24:52 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:862bb2a:1636
+20:24:52 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+20:24:52 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [WARNING] Forced host server pvp is not defined
+20:24:52 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:862bb2a:1636 by SpigotMC
+20:24:52 [INFO] Listening on /0.0.0.0:25565
+20:25:00 [INFO] [/127.0.0.1:56472] <-> InitialHandler has connected
+20:25:02 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+20:25:05 [INFO] Netty is not using direct IO buffers.
+
+20:26:17 [INFO] [N0bleDeath] disconnected with: §fServer closed
+20:26:17 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+20:26:17 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+20:26:32 [INFO] [/127.0.0.1:56500] <-> InitialHandler has pinged
+20:38:18 [INFO] [/127.0.0.1:56040] <-> InitialHandler has pinged
+20:38:25 [INFO] [N0bleDeath,/127.0.0.1:56043] <-> InitialHandler has connected
+20:38:26 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+20:51:09 [INFO] [N0bleDeath] disconnected with: §fServer closed
+20:51:09 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+20:51:09 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+20:55:37 [INFO] [N0bleDeath,/127.0.0.1:64485] <-> InitialHandler has connected
+20:55:37 [INFO] [N0bleDeath] <-> ServerConnector [lobby] has connected
+21:12:04 [INFO] [N0bleDeath] disconnected with: §fServer closed
+21:12:04 [INFO] [N0bleDeath] -> UpstreamBridge has disconnected
+21:12:04 [INFO] [N0bleDeath] <-> DownstreamBridge <-> [lobby] has disconnected
+21:12:09 [INFO] Closing listener [id: 0xc1bfbaa6, L:/[0:0:0:0:0:0:0:0]:25565]
+21:12:09 [INFO] Closing pending connections
+21:12:09 [INFO] Disconnecting 0 connections
+21:12:09 [INFO] Disabling plugins
+21:12:09 [INFO] Closing IO threads
